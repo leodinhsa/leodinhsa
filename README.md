@@ -27,7 +27,9 @@ Here are some ideas to get you started:
 <h3 align="left">Certificates:</h3>
 <p align="left">
 <a href="https://www.credly.com/badges/997ea081-3a42-43b5-8d5d-42f800d9196c"><img alt="aws-saa" src="https://d1.awsstatic.com/certification/badges/AWS-Certified-Solutions-Architect-Associate_badge_150x150.e359ae4a6d4d82c3e31d4f9104c8d389b56a2423.png"/></a>
+<a href="https://www.credly.com/badges/183e5ff9-2fa0-4464-a524-9c68a07158ec"><img width="151" height="151" alt="claude-certified-architect-foundations" src="https://github.com/user-attachments/assets/6bae3b16-b4a0-4873-b64d-25dec599c6ff" />
 </p>
+
 
 <h3 align="left">Languages and Frameworks:</h3>
 <p align="left">
